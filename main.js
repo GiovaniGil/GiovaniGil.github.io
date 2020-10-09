@@ -516,7 +516,7 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 };
 
 
-var API = 'https://dragon-ball-api.herokuapp.com/api/character';
+var API = 'https://cors-anywhere.herokuapp.com/https://dragon-ball-api.herokuapp.com/api/character';
 var PersonagensService = /** @class */ (function () {
     function PersonagensService(http) {
         this.http = http;
@@ -776,7 +776,7 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 };
 
 
-var API = 'https://dragon-ball-api.herokuapp.com/api/planet';
+var API = 'https://cors-anywhere.herokuapp.com/https://dragon-ball-api.herokuapp.com/api/planet';
 var PlanetasService = /** @class */ (function () {
     function PlanetasService(http) {
         this.http = http;
