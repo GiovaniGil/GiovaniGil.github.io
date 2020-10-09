@@ -1,2 +1,2 @@
 # GiovaniGil.github.io
-Executar utilizando extensão de CORS ( Ex.: https://mybrowseraddon.com/access-control-allow-origin.html).
+Acessar via: https://giovanigil.github.io/ utilizando alguma extensão de CORS no navegador (Ex.: https://mybrowseraddon.com/access-control-allow-origin.html).
